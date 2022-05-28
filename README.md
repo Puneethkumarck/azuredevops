@@ -1,7 +1,5 @@
 # azuredevops
 
-# Kubernetes CKAD Preparation
-
 - [Intro to Devops](IntroToDevops.md)
 - [ADO](devops.md)
 - [azrepo](azrepo.md)
